@@ -11,7 +11,8 @@ import {
   Input,
   Card,
   Table,
-  TableColumn
+  TableColumn,
+  Message
 } from 'element-ui'
 
 Vue.use(Button)
@@ -26,3 +27,4 @@ Vue.use(Input)
 Vue.use(Card)
 Vue.use(Table)
 Vue.use(TableColumn)
+Vue.prototype.$message = Message

@@ -1,4 +1,4 @@
-# vue-todo
+# Vue-Todo
 
 ## Project setup
 ```
@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Example
+
+Open the url `http://127.0.0.1:8080/` in your browser.
+
+![example](./example.png)
